@@ -1,17 +1,29 @@
-Command,What it does,Simple Explanation
-pwd,Print Working Directory,"""Where am I right now?"""
-ls,List,Show files in the current folder.
-ls -la,List All,"Show all files, including hidden ones."
-cd <folder>,Change Directory,Move into a folder.
-clear,Clear,Clean up the terminal screen.
-ifconfig,Interface Config,Find your IP address (look for inet).
-ip a,IP Address,A modern way to find your IP.
-ping <IP>,Ping,"Check if another computer is ""awake."""
-sudo,SuperUser Do,"Run a command as the ""Admin"" (e.g., sudo wireshark)."
-mkdir <name>,Make Directory,Create a new folder.
-touch <file>,Touch,Create a new empty file.
-cat <file>,Concatenate,Read the text inside a file.
-rm <file>,Remove,Delete a file (Be careful!).
-mv,Move,Rename or move a file.
-chmod +x <file>,Change Mode,"Make a file ""executable"" (runnable)."
-whoami,Who Am I?,Show which user you are logged in as.
+# 🐧 Linux Fundamentals Cheat Sheet
+
+### 📂 File & System Navigation
+| Command | Action | Usage Example |
+| :--- | :--- | :--- |
+| `pwd` | Show current path | `pwd` |
+| `ls -la` | List all files (including hidden) | `ls -la` |
+| `cd ..` | Move up one folder | `cd ..` |
+| `mkdir` | Create a new folder | `mkdir MyLab` |
+
+---
+
+### 🌐 Networking (Task 1 & 2 Essentials)
+| Command | Action | Why use it? |
+| :--- | :--- | :--- |
+| `ifconfig` | View network interfaces | To find your IP address |
+| `ping` | Test connectivity | To see if the target is alive |
+| `ip a` | Show IP addresses | Modern alternative to ifconfig |
+| `sudo` | Run as Admin | To execute protected tools |
+
+---
+
+### 🛠️ File Manipulation
+| Command | Action | Usage Example |
+| :--- | :--- | :--- |
+| `cat` | Read file content | `cat notes.txt` |
+| `nano` | Edit a file | `nano cheat-sheet.txt` |
+| `chmod +x` | Make a file runnable | `chmod +x script.sh` |
+| `rm -rf` | Force delete (Careful!) | `rm -rf old_folder` |
