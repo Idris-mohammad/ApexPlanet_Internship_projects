@@ -7,7 +7,7 @@ Welcome to my cybersecurity internship journey. This repository serves as a prof
 ### 🔹 Task 1: Environment Setup & Foundation
 * **Goal:** Establish a secure, isolated virtualization lab.
 * **Key Tools:** VirtualBox, Kali Linux, Metasploitable2, Wireshark.
-* **Deliverables:** [View Task 1 Folder](./Task-1-Lab-Setup/)
+* **Deliverables:** [View Task 1 Folder](./Task-1/)
 * **Status:** ✅ Completed
 
 ### 🔹 Task 2: Network Reconnaissance (In Progress)
@@ -23,4 +23,4 @@ Welcome to my cybersecurity internship journey. This repository serves as a prof
 * **Documentation:** Version control via GitHub and technical report writing.
 
 ## 📑 Resources
-* [Linux Fundamentals Cheat Sheet](./Resources/linux-cheat-sheet.md)
+* [Linux Fundamentals Cheat Sheet](./Task-1/Linux_Cheat_sheet.md)
