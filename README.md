@@ -12,15 +12,20 @@ Welcome to my cybersecurity internship journey. This repository serves as a prof
 
 ### 🔹 Task 2: Network Reconnaissance (In Progress)
 * **Goal:** Discovering services and vulnerabilities.
-* **Key Tools:** Nmap, Netdiscover.
-* **Status:** ⏳ Upcoming
+* **Key Tools:** Nmap (NSE), GVM (OpenVAS), Vulners DB, Netdiscover.
+* **Deliverables:** [View Task 2 Folder](./Task-2/)
+* **Status:** ✅ Completed
 
 ---
 
 ## 🛠️ Technical Skills Demonstrated
-* **Virtualization:** Secure lab isolation using Host-Only networking.
+* **Vulnerability Research:** Mapping service versions to CVEs (e.g., CVE-2011-2523) and analyzing CVSS severity scores.
+* **Infrastructure Auditing:** Deployment, configuration, and troubleshooting of GVM/OpenVAS environments.
+* **Network Reconnaissance:** Stealth SYN scanning, OS fingerprinting, and automated service discovery.
+* **Virtualization:** Secure lab isolation using Host-Only networking for safe exploitation.
 * **Traffic Analysis:** Packet inspection and ICMP filtering via Wireshark.
-* **Documentation:** Version control via GitHub and technical report writing.
+* **Documentation:** Version control via GitHub and professional technical report writing.
 
 ## 📑 Resources
 * [Linux Fundamentals Cheat Sheet](./Task-1/Linux_Cheat_sheet.md)
+  
