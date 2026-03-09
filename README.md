@@ -10,7 +10,7 @@ Welcome to my cybersecurity internship journey. This repository serves as a prof
 * **Deliverables:** [View Task 1 Folder](./Task-1/)
 * **Status:** ✅ Completed
 
-### 🔹 Task 2: Network Reconnaissance (In Progress)
+### 🔹 Task 2: Network Reconnaissance 
 * **Goal:** Discovering services and vulnerabilities.
 * **Key Tools:** Nmap (NSE), GVM (OpenVAS), Vulners DB, Netdiscover.
 * **Deliverables:** [View Task 2 Folder](./Task-2/)
