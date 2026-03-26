@@ -19,7 +19,7 @@ Welcome to my cybersecurity internship journey. This repository serves as a prof
 ### 🔹 Task 3: Web Application Security 
 * **Goal:** Identify and exploit web vulnerabilities in a controlled environment.
 * **Key Tools:** Burp Suite, OWASP ZAP, DVWA, Nikto.
-* **Deliverables:** [View Task 2 Folder](./Task-3/)
+* **Deliverables:** [View Task 3 Folder](./Task-3/)
 * **Status:** ✅ Completed
 ---
 
