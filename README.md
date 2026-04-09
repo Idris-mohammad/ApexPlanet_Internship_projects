@@ -21,7 +21,12 @@ Welcome to my cybersecurity internship journey. This repository serves as a prof
 * **Key Tools:** Burp Suite, OWASP ZAP, DVWA, Nikto.
 * **Deliverables:** [View Task 3 Folder](./Task-3/)
 * **Status:** ✅ Completed
----
+
+### 🔹Task 5: Capstone Project - Vulnerability Assessment of Test Network
+* **Goal:** To apply all skills in a self-chosen capstone project and simulate an incident response.
+* **Key Tools:** Metaslpoit, Tcpdump.
+* **Deliverables:** [View Task 5 Folder](./Task-5/)
+* **Status** ✅ Completed
 
 ## 🛠️ Technical Skills Demonstrated
 * **Web Security:** Exploiting SQL Injection (SQLi), Cross-Site Scripting (XSS), and CSRF vulnerabilities.
@@ -32,6 +37,11 @@ Welcome to my cybersecurity internship journey. This repository serves as a prof
 * **Network Reconnaissance:** Stealth SYN scanning, OS fingerprinting, and automated service discovery.
 * **Virtualization:** Secure lab isolation using Host-Only networking for safe exploitation.
 * **Traffic Analysis:** Packet inspection and ICMP filtering via Wireshark.
+* **Incident Response & Forensics:** Live traffic analysis using netstat and tcpdump; identifying Indicators of Compromise (IoCs) in Linux logs.
+* **System Hardening:** Implementing Host-based Firewalls (Netfilter/Iptables) and service-level remediation.
+* **Exploitation Frameworks:** Advanced usage of Metasploit for Remote Code Execution (RCE) and post-exploitation.
+* **Network Security:** Designing secure virtual architectures and analyzing data flow between Auditor and Target nodes.
+* **Automation:** Developing Bash scripts for automated security remediation and system hardening.
 * **Documentation:** Version control via GitHub and professional technical report writing.
 
 ## 📑 Resources
